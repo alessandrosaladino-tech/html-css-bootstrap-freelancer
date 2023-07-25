@@ -1,6 +1,10 @@
 /* utilities */
 .w-10 {
-    width: 10%;
+    width: 15%;
+}
+
+.fs_mobile {
+    font-size: 40px ;
 }
 
 /* end utilities */
@@ -15,4 +19,16 @@ header {
 
 .jumbotron img {
     width: 50%;
+}
+
+.star {
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.star>hr {
+    height: 5px;
+    color: white;
+    background-color: white;
 }
