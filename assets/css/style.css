@@ -21,6 +21,11 @@
     font-size: 11.2px;
 }
 
+.btn_primary {
+    background-color: #1abc9c;
+    color: white;
+}
+
 
 
 /* end utilities */
