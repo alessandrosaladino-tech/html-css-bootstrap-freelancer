@@ -25,11 +25,10 @@
 
 /* end utilities */
 
-/*jumbotron*/
 header {
     background-color:#2c3e50 ;
-    height: 90px;
 }
+/*jumbotron*/
 
 .bg_jumbo {
     background-color: #1abc9c;
@@ -64,7 +63,6 @@ header {
 
 /*section contact*/
   .contact {
-    height: 800px;
   }
 /*end section contact*/
 
